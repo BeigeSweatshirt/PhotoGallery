@@ -1,5 +1,5 @@
 # PhotoGallery 
-PhotoGallery is a client for the Flickr which fetches the most recently posted iamges. PhotoGallery is based on Android Programming: The Big Nerd Ranch Guide and the challenge exercises therein.
+PhotoGallery is a client for the Flickr which fetches the most recently posted images. PhotoGallery is based on Android Programming: The Big Nerd Ranch Guide. The main branch is the base app, challenge exercises are implemented in the branches.
 
 ## What I Learned About
 - AsyncTasks
